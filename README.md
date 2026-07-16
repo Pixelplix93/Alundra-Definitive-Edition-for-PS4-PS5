@@ -1,5 +1,8 @@
 # Alundra – Definitive Edition for PS4 & PS5
 
+<img width="1523" height="1878" alt="ALUNDRA_PS4" src="https://github.com/user-attachments/assets/3e1cd0a9-6031-4ce7-8705-024fca4feb7c" />
+
+
 **Alundra – Definitive Edition** is a fan-made improvement patch for the original PlayStation classic *Alundra*.
 
 This edition aims to provide the best possible way to experience the game by restoring content from the Japanese version, fixing known issues, improving the PAL releases, and adding useful extra features such as 60 Hz support, selectable difficulty modes, debug access, and more.
