@@ -9,6 +9,12 @@ An original copy/image of *Alundra* is required.
 
 ---
 
+## Requirements
+
+A modified or jailbreak-compatible PlayStation 4 or PlayStation 5 console.
+
+---
+
 ## Supported Versions / Languages
 
 This patch is available for the following versions:
@@ -25,13 +31,6 @@ This patch is available for the following versions:
 * **Japanese** — requires *Alundra (Japan)*
 
 Please use the patch archive that matches your original game version and language.
-
----
-
-## PS4 & PS5 Requirements
-
-Requires a modified or jailbreak-compatible console. Standard retail consoles are not supported.
-
 
 ---
 
